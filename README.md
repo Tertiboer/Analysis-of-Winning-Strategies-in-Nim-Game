@@ -3,3 +3,7 @@ Implementation and mathematical analysis of winning strategies in the classical 
 
 
 
+## Код программы
+
+- [Исходный код](src/NimGame.java) - консольное приложение для анализа игры Ним
+- [Тесты](test/NimGameTest.java) - юнит-тесты для проверки алгоритма
